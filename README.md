@@ -7,11 +7,11 @@ GREEN → YELLOW → RED → GREEN
 This project was simulated using EDA Playground and verified using EPWave waveforms.
 
 📌 Features
-Moore FSM implementation
-Clock-driven state transitions
-Verilog RTL design
-Waveform verification
-Modular and beginner-friendly design
+Moore FSM implementation,
+Clock-driven state transitions,
+Verilog RTL design,
+Waveform verification,
+Modular and beginner-friendly design.
 
 🧠 FSM States
 State	   Binary	   Light
