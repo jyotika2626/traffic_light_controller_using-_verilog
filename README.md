@@ -15,16 +15,16 @@ Modular and beginner-friendly design.
 
 🧠 FSM States
 State	   Binary	   Light
-GREEN	    00	     Green ON
-YELLOW	  01	     Yellow ON
+GREEN	    00	     Green ON,
+YELLOW	  01	     Yellow ON,
 RED	      10	     Red ON
 
 ⚙️ Working
 At every positive edge of the clock:
 
-GREEN → YELLOW
-YELLOW → RED
-RED → GREEN
+GREEN → YELLOW, 
+YELLOW → RED, 
+RED → GREEN.
 
 The output depends only on the current state, making this a Moore FSM.
 
